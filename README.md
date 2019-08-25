@@ -1,1 +1,1 @@
-# This repository contains algorithms pertaining to commonly faced statistical problems such as finding the maximum likelihood using the Expectation Maximization algorithm or Graphical Inference algorithms such as sum-product , Baum-welch for Hidden Markov Model.
+# <h5>This repository contains algorithms pertaining to commonly faced statistical problems such as finding the maximum likelihood using the Expectation Maximization algorithm or Graphical Inference algorithms such as sum-product , Baum-welch for Hidden Markov Model.</h5>
